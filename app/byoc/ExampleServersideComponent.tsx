@@ -32,6 +32,7 @@ FEAAS.registerComponent(ExampleServersideComponent, {
   description: "Description of my example component",
   thumbnail:
     "https://feaasstatic.blob.core.windows.net/assets/thumbnails/byoc.svg",
+  group: "Examples",
   required: ["firstName"],
   properties: {
     firstName: {
