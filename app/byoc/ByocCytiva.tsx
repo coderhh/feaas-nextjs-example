@@ -28,7 +28,7 @@ export const ByocCytiva = (props: ByocCytivaProps): JSX.Element => {
 
 FEAAS.External.registerComponent(ByocCytiva, {
   name: 'ByocCytiva',
-  group: 'BYOC',
+  group: 'Example',
   properties: {
     title: {
       type: 'string',
