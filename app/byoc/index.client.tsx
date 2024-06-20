@@ -26,3 +26,5 @@ import "./ExampleSwappedComponent.client";
 
 // Serverside component that contains another clientside component
 import "./ExampleAugmentedComponent";
+
+import "./ByocCytiva";
